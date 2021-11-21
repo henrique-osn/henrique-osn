@@ -5,10 +5,6 @@
 
 <br />
 
-## 🌍 Here some of my social
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/henrique_osn) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/henrique-nascimento-b5570219a/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/henrique.osn/)
-
 ## 🔨 Tech Stack
 
 <div style="display: inline_block">
@@ -24,3 +20,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-osn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-osn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<br/>
+
+## 🌍 Social Links
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/henrique_osn) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/henrique-nascimento-b5570219a/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/henrique.osn/)
