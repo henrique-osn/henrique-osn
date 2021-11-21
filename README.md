@@ -1,7 +1,7 @@
 <h1>Hi, I'm Henrique Nascimento <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p><img src="https://komarev.com/ghpvc/?username=henrique-osn&color=ff69b4" alt="Profile views"/></p>
 
-### I'm a passionate programming student from Brazil, I love discovering new things and I'm currently looking for my first job
+### I'm a passionate programming student from Brazil, I love discovering new things and I'm currently looking for my first job.
 
 <br />
 
