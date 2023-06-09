@@ -1,7 +1,7 @@
-<h1>Hi, I'm Henrique Nascimento <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1>Olá, mundo!, Eu sou Henrique. 👋</h1>
 <p><img src="https://komarev.com/ghpvc/?username=henrique-osn&color=ff69b4" alt="Profile views"/></p>
 
-### I'm a passionate programming student from Brazil, I love discovering new things and meeting people to share knowledge, I'm improving myself everyday to become a better developer.
+#### • Atualmente estou cursando Engenharia de Software, buscando sempre expandir meus conhecimentos na área de tecnologia.
 
 <br />
 
@@ -17,8 +17,8 @@
 
 <div>
     <a href="https://github.com/henrique-osn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-osn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-osn&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henrique-osn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-osn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br/>
