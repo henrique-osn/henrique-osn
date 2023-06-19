@@ -3,6 +3,8 @@
 
 ### Atualmente estou cursando Engenharia de Software, buscando sempre expandir meus conhecimentos na área de tecnologia.
 
+<br/>
+
 ## 🔨 Tech Stack
 
 <div style="display: inline_block">
