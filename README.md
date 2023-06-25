@@ -1,5 +1,5 @@
 <h1>Olá, mundo!, Eu sou Henrique. 👋</h1>
-<p><img src="https://komarev.com/ghpvc/?username=henrique-osn&color=ff69b4" alt="Profile views"/></p>
+<p><img src="https://komarev.com/ghpvc/?username=henrique-osn&color=orange" alt="Profile views"/></p>
 
 ### Atualmente estou cursando Engenharia de Software, buscando sempre expandir meus conhecimentos na área de tecnologia.
 
